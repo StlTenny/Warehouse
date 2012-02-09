@@ -1,9 +1,5 @@
 package andro.id.warehouse;
 
-import bar.golf.NYC.scan.DeviceListActivity;
-import bar.golf.NYC.scan.addItem;
-import bar.golf.NYC.scan.browseInventory;
-import bar.golf.NYC.scan.scanItem;
 import andro.id.warehouse.azureModule;
 import andro.id.warehouse.R;
 

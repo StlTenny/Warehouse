@@ -2,10 +2,6 @@ package andro.id.warehouse;
 
 import java.util.Set;
 
-import andro.id.warehouse.R;
-import andro.id.warehouse.R.id;
-import andro.id.warehouse.R.layout;
-import andro.id.warehouse.R.string;
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
